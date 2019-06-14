@@ -1,2 +1,2 @@
 # Interstella-Operating-System
-This is a simple operaiing system which displays the Hardware Information of the computer.
+This is a simple operating system which displays the Hardware Information of the computer.
